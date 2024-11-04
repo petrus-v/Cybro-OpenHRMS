@@ -24,8 +24,7 @@
     'name': 'Odoo 18 HR Payroll',
     'version': '18.0.1.0.0',
     'category': 'Human Resources',
-    'summary': """Automates payroll management, including salary calculations
-     and the generation of payslips""",
+    'summary': """Odoo 18 HR Payroll, Odoo18 Payroll, Payroll, Odoo Payroll, Payroll V18, Odoo18, Payroll Management, Odoo18 Payslip""",
     'description': """The system automates payroll management by streamlining
      key processes such as calculating employee salaries, deductions, and 
      benefits based on predefined rules and regulations. It also facilitates
